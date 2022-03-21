@@ -1,31 +1,31 @@
-##  WhatsApp International University & Distruptive Intervention in Personal Space
+##  WhatsApp International University & Disruptive Intervention in Personal Space
 
 Disruptive communication technology significantly alters the ways of communication and interaction among people. In recent years we witnessed two 
 types of disruptive communication systems (i) social networking systems and (ii) Instant messaging systems. Almost
-every reader of this blog must have an account in one social networking site or another. Examples are Facebook, 
+every reader of this blog must have an account on one social networking site or another. Examples are Facebook, 
 LinkedIn, Youtube, and WeChat. Telegram, WhatsApp, Instagram are examples of Instant messing systems. Both 
 communication technologies are excellent innovations to bring the world closer and people to collaborate without
 geographical boundaries. The flip side of such disruptive communication has overburdened the already stressed lives of 
-ordinary people while app creators, manintainers, promoters are having roaring business along with network service 
+ordinary people while app creators, maintainers, promoters are having roaring business along with network service 
 providers. Meta, Google, and Microsoft have already started controlling the govt policies worldwide. 
 Ukraine seems to be winning over Russia in the ongoing conflict in the e-communication space. Meta has changed its
 message posting policies to allow people to post abuses targeting the Russian political dispensation and its leaders.
 However, this post is not about Ukraine
 and Russia conflict. The purpose of the post is to let the readers think about the etiquettes of using disruptive 
-communication channels. I will draw some analogues from mass media mainly e-media. 
+communication channels. I will draw some analogs from mass media, mainly e-media. 
 
 I remember when the disruptive intervention of Arnab Goswami transformed the Times Now TV news. His only motivation was 
 to create a niche for the news transmission on TV from a passive electronic medium like the Radio or Akashvani. Mr.
 Goswami became instant <i>bete noire</i> for all news anchors and the people holding leftist views, but TRP of Times Now 
 increased tremendously. Mr. Goswami was eventually kicked out of Times Now, and Republic TV came into existence. The 
 disruptive news transmission is another example of disruptive 
-communication. I do not intend to go into disruptive interventions in the TV news anchoring. I want to make the point that the 
+communication. I do not intend to go into disruptive interventions in TV news anchoring. Instead, I want to point out that the 
 disruptive interventions created a chasm among people on both sides of the center. The free use of profanities jolted people. But 
-eventually, all seasoned political commentators, the political parties, and groups either developed strong likes or strong dislikes. 
+eventually, all seasoned political commentators, the political parties, and groups developed strong likes or strong dislikes. 
 However, they could not ignore Mr. Goswami while he merrily created his TRP and established Republic TV. I have witnessed
   increased use of profanities by the politicians and the political commentators from the opposition. 
 
-Having pointed out the importance of disruptive communication, let us focus on Whatsapp or other instant messaging apps. People across the world
+Having pointed out the importance of disruptive communication, let us focus on Whatsapp or other instant messaging apps. People worldwide
 have been dragged into disruptive communication systems by smart end devices (cell phones) and numerous Instant messaging 
 apps. There are two sides to any tale. The brighter side is that communication has become easy for the self-employed 
 unorganized workforce such as a carpenter, plumbers, electricians, and small artisans. Business communication has turned instant for the 
@@ -48,16 +48,16 @@ University). But honestly, the quality of posts does not show that the academic 
 Rather the use of profanities in public discourse has increased tremendously. You may get 1000 messages if you ever say anything like Why sky looks 
 blue today? or "Why PM did or did not say something on Ukraine Russia conflict?"
 
-An average person may not have any understanding of Russia-Ukraine conflict except being hassled by the price
-inflation due disruption of fossil fuel. So, it does not make sense why an average person should target abuses to Putin or 
-Zelensky, or Biden or NATO. The flood of whatsApp messaging on the conflict is just irrelevant digital garbage. 
+An average person may not understand the Russia-Ukraine conflict except being hassled by the price
+inflation due to the disruption of fossil fuel. So, it does not make sense why an average person should target abuses to Putin or 
+Zelensky, or Biden or NATO. The flood of WhatsApp messaging on the conflict is just irrelevant digital garbage. 
 
-The other notable whatsApp digital flith is due to rampant use of greetings like good morning, good evening, or even
-"international day of morons" makes me wonder if God has suddenly decided to bestow everyone with happiness, and the
-world has become flat with happiness. Yet hatred, spewing venom on Twitter becomes essential. Some 
-"influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind boggling. 
-Only one thing that comes to my mind is that "flith any kind sells, even in digital space." Unmindful personal privacy, people ogle at the digital 
-filth and actively participate in making the flith stink more and more. If they expose themselves to privacy invasion, profiling becomes 
+The other notable WhatsApp digital filth is due to rampant use of greetings like good morning, good evening, or even
+"international day of morons." It makes me wonder if God has suddenly decided to bestow everyone with happiness, and the
+world has become flat with joy. Yet hatred, spewing venom on Twitter becomes essential. Some 
+"influencers" get paid by the groups seeking to create trouble. The business of dirt and gossip is just mind-boggling. 
+Only one thing that comes to my mind is that "filth of any kind sells, even in digital space." Unmindful personal privacy, people ogle at the digital 
+filth and actively participate in making the filth stink more and more. If they expose themselves to privacy invasion, profiling becomes 
 simple due to digital footprints. AI, ML, and Data Science gain importance over foundational technologies.
 
 [Back to Index](../index.md)
